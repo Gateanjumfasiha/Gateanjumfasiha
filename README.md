@@ -146,8 +146,8 @@ Cleaned and prepared real-world accident data with Python, then built a Power BI
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gateanjumfasiha&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gateanjumfasiha&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Gateanjumfasiha&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gateanjumfasiha&layout=compact&theme=dark&hide_border=true" />
 
 <br/>
 
