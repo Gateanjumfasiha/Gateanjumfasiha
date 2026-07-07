@@ -160,25 +160,9 @@ Cleaned and prepared real-world accident data with Python, then built a Power BI
 </div>
 
 <!--
-  OPTIONAL — SETUP REQUIRED — Contribution Snake Animation
-  This shows a snake "eating" your contribution graph. It looks great but
-  needs a small one-time setup because it can't be generated live like the
-  badges above — GitHub has to run it for you on a schedule.
-
-  How to set it up (~5 minutes, official Platane/snk action):
-  1. In your Gateanjumfasiha repo, go to Actions → New workflow → set up a
-     workflow yourself.
-  2. Paste the workflow from: https://github.com/Platane/snk#-1-generate-the-snake-svg
-  3. Commit it. GitHub Actions will generate the SVG and push it to an
-     "output" branch automatically.
-  4. Then uncomment the two lines below and replace YOUR-USERNAME.
-
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  </div>
-
-  If you'd rather skip this, just leave it commented out — everything else
-  in this README works with zero setup.
+ <div align="center">
+<img src="https://raw.githubusercontent.com/Gateanjumfasiha/Gateanjumfasiha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 -->
 
 <br/>
