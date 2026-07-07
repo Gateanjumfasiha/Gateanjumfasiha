@@ -160,9 +160,10 @@ Cleaned and prepared real-world accident data with Python, then built a Power BI
 </div>
 
 <!--
- <div align="center">
-<img src="https://raw.githubusercontent.com/Gateanjumfasiha/Gateanjumfasiha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+### 🐍 My Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Gateanjumfasiha/Gateanjumfasiha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/Gateanjumfasiha/Gateanjumfasiha/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 -->
 
 <br/>
