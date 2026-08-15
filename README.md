@@ -174,6 +174,8 @@ Cleaned and prepared real-world accident data with Python, then built a Power BI
 | Certification | Issuer |
 |---|---|
 | Programming in Java | Infosys |
+|Genartive Ai and llms | google cloud|
+|aws certified cloud parctitioner|aws|
 | Power BI | Simplilearn |
 | Python | Internshala |
 | Computer Networking | CISCO |
