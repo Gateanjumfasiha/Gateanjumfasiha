@@ -4,6 +4,7 @@
   add this file as README.md, and GitHub auto-renders it on your profile page.
 
   WHAT'S NEW IN v4 vs v3:
+  
   - GitHub Trophies widget (auto-generated from your real activity, no setup needed)
   - Contribution snake animation (needs a one-time GitHub Actions setup — instructions below)
   - Weekly coding activity graph (needs WakaTime — optional, instructions below)
@@ -56,7 +57,7 @@
 
 | 🔨 Building | 📚 Learning | 🤝 Open to |
 |---|---|---|
-| AI Study Buddy v2 | Machine Learning fundamentals | Data Analyst / DS internships |
+| Smart Study AI | Machine Learning fundamentals | Data Analyst / DS internships |
 | Power BI dashboard refresh | Prompt Engineering | Open-source SQL/Python/Power BI projects |
 | — | Generative AI | Freelance dashboarding & data cleaning |
 
@@ -119,9 +120,10 @@ Flask + SQLite web app with full CRUD — add records, auto-calculate averages, 
 
 ---
 
-### 🤖 [AI Study Buddy — Smart Learning Assistant](https://github.com/Gateanjumfasiha/ai-study-buddy)
-Full-stack AI learning assistant integrating LLM APIs with optimized prompts. End-to-end manually tested; API responses validated with Postman.
+### 🧠 [Smart Study AI](https://github.com/Gateanjumfasiha/ai-study-buddy)
+AI-powered study companion that turns raw notes into summaries, auto-generated quizzes, flashcards, and a Q&A chat. Runs fully offline with a custom text-analysis engine — no API key required — with an optional upgrade path to Google Gemini for smarter answers.
 
+`React` `Vite` `JavaScript` `Text Analysis` `LocalStorage`
 `React.js` `Node.js` `Express.js` `REST APIs` `Prompt Engineering`
 
 ---
